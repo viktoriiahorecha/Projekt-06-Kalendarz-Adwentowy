@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://images.pexels.com/photos/943898/pexels-photo-943898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table {
+    width: 100%;
+    margin-top: 60px;
+}
+
+table th, table td {
+
+    border: 3px solid white;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    background-color: transparent;
+}
+
+th {
+    background-color: white;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 150%;
+}
+section{
+    padding: 20px;
+}
+caption{
+    font-size: 200%;
+    color: white;
+}
